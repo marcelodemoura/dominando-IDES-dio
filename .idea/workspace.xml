@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="804089f4-8b24-4370-a8ea-2a275de4e06e" name="Changes" comment="Figuras Geometricas">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosDio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula3/Fgeo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula3/FgeomAula3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula2/FigurasGeometricas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula2/FigurasGeometricas.java" afterDir="false" />
-    </list>
+    <list default="true" id="804089f4-8b24-4370-a8ea-2a275de4e06e" name="Changes" comment="Figuras Geometricas aula retornos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -61,7 +49,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666288663338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Figuras Geometricas aula retornos">
+      <created>1666292219282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666292219282</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Figuras Geometricas aula retornos">
+      <created>1666292388557</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666292388557</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,7 +77,33 @@
                   <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -83,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Figuras Geometricas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Figuras Geometricas" />
+    <MESSAGE value="Figuras Geometricas aula retornos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Figuras Geometricas aula retornos" />
   </component>
 </project>
