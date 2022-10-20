@@ -7,7 +7,7 @@ public class FigurasGeometricas {
         System.out.println("Exercicio Figuras Geometricas");
         AulaFiguras.quadrado(5);
         AulaFiguras.retangulo(5,5);
-        AulaFiguras.trapezio(5,5,3);
+        AulaFiguras.trapezio(5,5,8);
 
     }
 }
